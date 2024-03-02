@@ -1,16 +1,37 @@
-# easy_notes
+# Flutter Easy Notes App
 
-A new Flutter project.
+A simple Flutter mobile app for managing notes with features like local database storage, custom colors, note editing, deletion, and dark theme support. The app employs state management using Bloc and Cubit.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Local Database Handling:**
+  - Implemented using Hive for efficient local database management.
 
-A few resources to get you started if this is your first Flutter project:
+- **Notes Management:**
+  - Add notes with custom colors.
+  - Edit existing notes.
+  - Delete notes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **User Interface (UI) Styling:**
+  - Dark theme for a visually appealing user experience.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **State Management:**
+  - Utilizing Bloc and Cubit for effective state management.
+
+
+## Screenshots
+
+Here are some screenshots of the Easy Notes App:
+
+<p float="left">
+  <img src="https://github.com/Mohamed-khaled0/Easy-Notes-App/blob/main/assets/screenshots/home.png" alt="Home Screen" width="250" style="margin:5px;">
+  <img src="https://github.com/Mohamed-khaled0/Easy-Notes-App/blob/main/assets/screenshots/edit.png" alt="Edit Note" width="250" style="margin:5px;">
+  <img src="https://github.com/Mohamed-khaled0/Easy-Notes-App/blob/main/assets/screenshots/add.png" alt="Add Note" width="250" style="margin:5px;">
+</p>
+
+
+
+## Screenshots
+  - Demo : https://youtube.com/shorts/dzzswBg0H5E?feature=shared
+
+
