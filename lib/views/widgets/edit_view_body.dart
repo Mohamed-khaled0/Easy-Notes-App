@@ -5,7 +5,6 @@ import 'package:easy_notes/views/widgets/custom_text_field.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import '../../constants.dart';
 import 'edit_note_colors_list_view.dart';
 
 class EditNoteViewBody extends StatefulWidget {
